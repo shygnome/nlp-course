@@ -1,0 +1,65 @@
+                 NN
+Kera               
+untuk            SC
+amankan          VB
+pesta olahraga   NN
+Pemerintah      NNP
+kota            NNP
+Delhi           NNP
+mengerahkan      VB
+monyet           NN
+untuk            SC
+mengusir         VB
+monyet-monyet    NN
+lain             JJ
+yang             SC
+berbadan         VB
+lebih            RB
+kecil            JJ
+dari             IN
+arena            NN
+Pesta Olahraga  NNP
+Persemakmuran   NNP
+.                 Z
+Beberapa         CD
+laporan          NN
+menyebutkan      VB
+setidaknya       RB
+10               CD
+monyet           NN
+ditempatkan      VB
+di               IN
+luar             NN
+...             ...
+luka-luka        NN
+,                 Z
+kata             VB
+para             DT
+pejabat          NN
+rumah sakit      NN
+.                 Z
+Tiga             CD
+orang            NN
+yang             SC
+berdiri          VB
+di               IN
+dekat            JJ
+kejadian         NN
+,                 Z
+termasuk         VB
+dua              CD
+orang           NND
+anak             NN
+,                 Z
+di               IN
+antara           NN
+yang             SC
+menderita        VB
+cedera           JJ
+,                 Z
+ujar             VB
+-nya            PRP
+menambahkan      VB
+.                 Z
+
+[255806 rows x 1 columns]
